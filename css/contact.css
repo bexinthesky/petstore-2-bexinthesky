@@ -1,0 +1,21 @@
+/*DOCTORS INFO*/
+.dr-img {
+  margin: 16px 8px 8px 8px;
+}
+
+.dr-info {
+  margin: 16px 8px 8px 8px;
+}
+
+
+/*GOOGLE MAP*/
+#map {
+  padding: 8px;
+  margin-top: 16px;
+  height: inherit;
+}
+
+/*CONTACT TABLE*/
+.con-tb {
+  margin: 16px;
+}
