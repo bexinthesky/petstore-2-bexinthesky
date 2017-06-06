@@ -1,18 +1,17 @@
-/*DOCTORS INFO*/
-.dr-img {
-  margin: 16px 8px 8px 8px;
+
+
+/*DOCTOR INFO SECTION*/
+.dr-one {
+  margin-top: 16px;
 }
+
+/*.dr-two {
+  margin-bottom: 8px;
+  margin-right: 8px;
+}*/
 
 .dr-info {
-  margin: 16px 8px 8px 8px;
-}
-
-
-/*GOOGLE MAP*/
-#map {
-  padding: 8px;
-  margin-top: 16px;
-  height: inherit;
+  margin-top: 8px;
 }
 
 /*CONTACT TABLE*/
