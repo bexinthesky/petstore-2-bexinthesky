@@ -2,13 +2,12 @@
 
 /*DOCTOR INFO SECTION*/
 .dr-one {
-  margin-top: 16px;
+  margin-top: 24px;
 }
 
-/*.dr-two {
+.dr-two {
   margin-bottom: 8px;
-  margin-right: 8px;
-}*/
+}
 
 .dr-info {
   margin-top: 8px;
@@ -16,5 +15,14 @@
 
 /*CONTACT TABLE*/
 .con-tb {
-  margin: 16px;
+  margin: 16px 0px;
+}
+
+.tb-head {
+  font-weight: bold;
+}
+
+/*GOOGLE MAP*/
+.g-map {
+  margin-top: 24px;
 }
