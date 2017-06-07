@@ -1,4 +1,6 @@
-
+header {
+  margin-bottom: 16px;
+}
 
 /*DOCTOR INFO SECTION*/
 .dr-one {
@@ -24,5 +26,11 @@
 
 /*GOOGLE MAP*/
 .g-map {
+  margin-top: 24px;
+}
+
+iframe {
+  width: 90%;
+  height: 325px;
   margin-top: 24px;
 }
